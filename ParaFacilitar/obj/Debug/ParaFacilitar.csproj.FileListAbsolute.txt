@@ -1,0 +1,11 @@
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\bin\Debug\ParaFacilitar.exe.config
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\bin\Debug\ParaFacilitar.exe
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\bin\Debug\ParaFacilitar.pdb
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\obj\Debug\ParaFacilitar.csproj.AssemblyReference.cache
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\obj\Debug\ParaFacilitar.csproj.SuggestedBindingRedirects.cache
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\obj\Debug\ParaFacilitar.Form1.resources
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\obj\Debug\ParaFacilitar.Properties.Resources.resources
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\obj\Debug\ParaFacilitar.csproj.GenerateResource.cache
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\obj\Debug\ParaFacilitar.csproj.CoreCompileInputs.cache
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\obj\Debug\ParaFacilitar.exe
+C:\Users\blubs\OneDrive\Área de Trabalho\Repo\ParaFacilitar\ParaFacilitar\obj\Debug\ParaFacilitar.pdb
